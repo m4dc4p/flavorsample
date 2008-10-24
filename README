@@ -5,5 +5,5 @@ Written and maintained by Justin Bailey <jgbailey@codeslower.com>.
 
 This solution demonstrates how to create a project which is a "flavor" or
 subtype of the C# project. It shows how to add custom project and item templates
-as detailed in the blog post at http://blog.codeslower.com.
+as detailed in the blog post at http://blog.codeslower.com/2008/10/Adding-Custom-Project-and-Item-Templates-to-Visual-Studio-2008.
 
