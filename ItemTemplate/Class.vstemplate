@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VSTemplate Type="Item" Version="2.0.0"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+  <TemplateData>
+    <Name>My Class</Name>
+    <Description>Creates a new class for your project.</Description>
+    <Icon>Package.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <DefaultName>MyClass</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectItem ReplaceParameters="true" TargetFileName="$fileinputname$.cs">MyClass1.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
